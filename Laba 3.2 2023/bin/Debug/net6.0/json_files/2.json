@@ -1,0 +1,12 @@
+  [
+  {
+    "name": "Product 2",
+    "category": "Category 2",
+    "price": 19.99
+  },
+  {
+    "name": "Product 3",
+    "category": "Category 1",
+    "price": 7.99
+  }
+]

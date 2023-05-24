@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8iNw/xmgjYx0fBKUZptoGJOqK8u/AGCHFghESwUV7JJIBfxx59w7cxJkoaudoKboI/KVyKMc2osFdzMteg8qjQ==",
+  "success": true,
+  "projectFilePath": "D:\\VS Projects\\C#\\Laba 3.2 2023\\Laba 3.2 2023\\Laba 3.2 2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrbob\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
